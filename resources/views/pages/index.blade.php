@@ -122,13 +122,13 @@
     <!-- Slider Section End -->
 
     <!-- Service Section Start -->
-    <div class="section section-padding service-section">
+    <div style="background-color: black" class="section section-padding service-section">
         <div class="container">
 
             <!-- Section Title Start -->
             <div class="section-title shape text-center">
                 <h5 class="sub-title">Consulting <span> Services</span></h5>
-                <h2 class="main-title">Consor Services</h2>
+                <h2 class="main-title text-white">Consor Services</h2>
             </div>
             <!-- Section Title End -->
 
@@ -195,12 +195,12 @@
     <!-- Service Section End -->
 
     <!-- Call to Action Section Start -->
-    <div class="section section-padding overflow-hidden call-to-action-section bg-color-01">
+    <div style="background-color: black" class="section section-padding overflow-hidden call-to-action-section bg-color-01">
         <div class="container">
 
             <!-- Call to Action title Start -->
             <div class="call-to-action-title">
-                <h2 class="title">You get perfect advice <br> from consor for <span>your business</span> <br> and others plan.</h2>
+                <h2 class="title text-white">You get perfect advice <br> from consor for <span>your business</span> <br> and others plan.</h2>
             </div>
             <!-- Call to Action title End -->
 
@@ -245,7 +245,7 @@
     <!-- Call to Action Section End -->
 
     <!-- Why Choose Us Section Start -->
-    <div class="section section-padding why-choose-section mt-n10">
+    <div style="background-color: black" class="section section-padding why-choose-section mt-n10">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -256,7 +256,7 @@
                         <!-- Why Choose Title Start -->
                         <div class="why-choose-title">
                             <h6 class="sub-title">Why Choose <span>Us?</span></h6>
-                            <h2 class="main-title"> <span>Fasted improving</span> your business with consor.</h2>
+                            <h2 class="main-title text-white"> <span>Fasted improving</span> your business with consor.</h2>
                         </div>
                         <!-- Why Choose Title End -->
 
@@ -269,8 +269,8 @@
                                     <img src="assets/images/icon/icon-1.png" alt="Icon">
                                 </div>
                                 <div class="item-content">
-                                    <h4 class="title"><span>3000+</span> Trusted Customer</h4>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting industry the industry.</p>
+                                    <h4 style="color: grey" class="title"><span>3000+</span> Trusted Customer</h4>
+                                    <p class="text-white">Lorem Ipsum is simply dummy text the printing and typesetting industry the industry.</p>
                                 </div>
                             </div>
                             <!-- Single Items End -->
@@ -281,8 +281,8 @@
                                     <img src="assets/images/icon/icon-2.png" alt="Icon">
                                 </div>
                                 <div class="item-content">
-                                    <h4 class="title"><span>190+</span> Experienced Speaker</h4>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting industry the industry.</p>
+                                    <h4 style="color: grey" class="title"><span>190+</span> Experienced Speaker</h4>
+                                    <p class="text-white">Lorem Ipsum is simply dummy text the printing and typesetting industry the industry.</p>
                                 </div>
                             </div>
                             <!-- Single Items End -->
@@ -293,8 +293,8 @@
                                     <img src="assets/images/icon/icon-3.png" alt="Icon">
                                 </div>
                                 <div class="item-content">
-                                    <h4 class="title"><span>24/7</span> Customer Support</h4>
-                                    <p>Lorem Ipsum is simply dummy text the printing and typesetting industry the industry.</p>
+                                    <h4 style="color: grey" class="title"><span>24/7</span> Customer Support</h4>
+                                    <p class="text-white">Lorem Ipsum is simply dummy text the printing and typesetting industry the industry.</p>
                                 </div>
                             </div>
                             <!-- Single Items End -->
@@ -325,13 +325,13 @@
     <!-- Why Choose Us Section End -->
 
     <!-- Cases Section Start -->
-    <div class="section section-padding bg-color-01">
+    <div style="background-color: black" class="section section-padding bg-color-01">
         <div class="container">
 
             <!-- Section Title Start -->
             <div class="section-title shape text-center">
                 <h5 class="sub-title">Complete <span> Cases</span></h5>
-                <h2 class="main-title">Our Successful Cases</h2>
+                <h2 class="main-title text-white">Our Successful Cases</h2>
             </div>
             <!-- Section Title End -->
 
@@ -385,7 +385,7 @@
     <!-- Cases Section End -->
 
     <!-- Brand Section Start -->
-    <div class="section brand-section">
+    <div  class="section brand-section">
         <div class="container">
             <div class="row gx-0 row-cols-2 row-cols-sm-4 ">
                 <div class="col">
@@ -426,13 +426,13 @@
     <!-- Brand Section End -->
 
     <!-- Customer Section Start -->
-    <div class="section section-padding">
+    <div style="background-color: black" class="section section-padding">
         <div class="container">
 
             <!-- Section Title Start -->
             <div class="section-title shape text-center">
                 <h5 class="sub-title">Happy <span> Customer</span></h5>
-                <h2 class="main-title">They are say about us!</h2>
+                <h2 class="main-title text-white">They are say about us!</h2>
             </div>
             <!-- Section Title End -->
 
@@ -514,14 +514,14 @@
     <!-- Customer Section End -->
 
     <!-- Blog Section Start -->
-    <div class="section section-padding blog-section bg-color-01">
+    <div style="background-color: black" class="section section-padding blog-section bg-color-01">
         <div class="shape-01"></div>
         <div class="container">
 
             <!-- Section Title Start -->
             <div class="section-title shape text-center">
                 <h5 class="sub-title">Blog <span> Post</span></h5>
-                <h2 class="main-title">Latest News of Consor</h2>
+                <h2 class="main-title text-white">Latest News of Consor</h2>
             </div>
             <!-- Section Title End -->
 
