@@ -76,8 +76,20 @@
                     </strong>
                 </div>
                 <p>
-                    The Barrier to Entry is the fence to prevents low quality people from getting access
+                    The Barrier to Entry is the fence to prevent low quality and unserious people from getting access
                 </p>
+                <br><br>
+{{--                <style>--}}
+{{--                    .absolute {--}}
+{{--                        position: relative;--}}
+{{--                        right: 150px;--}}
+{{--                        width: 200px;--}}
+
+{{--                        border: 3px solid green;--}}
+{{--                    }--}}
+{{--                </style>--}}
+                <a style="float:right; margin-top: 40px" href="{{ route('get.started') }}" class="button-large bg-primary-3 w-button absolute">Checkout</a>
+
 
             </div>
         </div>
