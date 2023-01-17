@@ -4,22 +4,11 @@
 
 <head>
 
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KJL33CK');</script>
+
     <meta charset="utf-8">
-    <title>Cobratate | Live What You Dream</title>
-    <meta content="I&#x27;m Andrew Tate - World champion kickboxer &amp; multi-millionaire. People used to tell me that a lifestyle like the one I live today is impossible to achieve, but I made it. It&#x27;s not easy, but with a few secrets, and a lot of hard work, you can join me at the top." name="description">
-    <meta content="Cobratate | Live What You Dream" property="og:title">
-    <meta content="I&#x27;m Andrew Tate - World champion kickboxer &amp; multi-millionaire. People used to tell me that a lifestyle like the one I live today is impossible to achieve, but I made it. It&#x27;s not easy, but with a few secrets, and a lot of hard work, you can join me at the top." property="og:description">
-    <meta content="images/yacht.png" property="og:image">
-    <meta content="Cobratate | Live What You Dream" property="twitter:title">
-    <meta content="I&#x27;m Andrew Tate - World champion kickboxer &amp; multi-millionaire. People used to tell me that a lifestyle like the one I live today is impossible to achieve, but I made it. It&#x27;s not easy, but with a few secrets, and a lot of hard work, you can join me at the top." property="twitter:description">
-    <meta content="images/yacht.png" property="twitter:image">
-    <meta property="og:type" content="website">
-    <meta content="summary_large_image" name="twitter:card">
+    <title>TheBigwealth Clan | Straight Business</title>
+    <meta content="TheBigwealth Clan | Straight Business" name="description">
+
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <link href="{{ asset('css/normalize.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('css/components.css') }}" rel="stylesheet" type="text/css">
@@ -65,11 +54,6 @@
 </head>
 <body class="body">
 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-KJL33CK');</script>
 
 <div class="menu-container">
     <div class="menu">
@@ -102,6 +86,30 @@
 </div>
 
 @yield('content')
+
+
+<div class="footer wf-section">
+    <div class="container footer">
+        <div class="footer-3-left-column">
+            <div class="footer-contact-methods">
+                <div>
+                    <h5>Social Links</h5>
+                    <div class="div-block-12">
+                        <a href="https://www.instagram.com/uchebigwealth/" class="link" target="_blank">
+                            <img style="margin-bottom: 5px" height="60" width="60" src="{{ asset('img/ig.png') }}" alt="">Instagram
+                        </a>
+                    </div>
+                    <div class="div-block-12">
+                        <a href="mailto:uchebigwealth@gmail.com" target="_blank" class="link">
+                            <img style="margin-bottom: 5px" height="60" width="60" src="{{ asset('img/email.png') }}" alt="">Email
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
 
 
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6181b0b1a9ba753863f1b595" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
