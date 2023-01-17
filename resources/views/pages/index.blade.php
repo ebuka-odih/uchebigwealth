@@ -1,10 +1,18 @@
 @extends('pages.layout.app')
 @section('content')
     <div class="section shorthero vid full wf-section">
-        <div data-poster-url="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-poster-00001.jpg" data-video-urls="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.mp4,https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" class="background-video w-background-video w-background-video-atom"><video id="61c0797d-fa50-4e15-0462-cc705253e578-video" autoplay="" loop="" style="background-image:url(_https_/uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success%20is%20learnt%20-%20splash%20sreen%20video%20LOW%20RES%20SIZE-poster-00001.html)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source src="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.mp4" data-wf-ignore="true">
-                <source src="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.webm" data-wf-ignore="true">
+        <div data-poster-url="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-poster-00001.jpg" data-video-urls="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.mp4,https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" class="background-video w-background-video w-background-video-atom">
+            <video id="61c0797d-fa50-4e15-0462-cc705253e578-video" autoplay="" loop="" style="background-image:url(_https_/uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success%20is%20learnt%20-%20splash%20sreen%20video%20LOW%20RES%20SIZE-poster-00001.html)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                <source src="upload/uche.mp4" data-wf-ignore="true">
+                <source src="upload/uche.MOV" data-wf-ignore="true">
+
             </video>
+{{--            <video autoplay="" loop="" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" width="320"  height="240" controls>--}}
+{{--                <source src="uche.mp4" data-wf-ignore="true">--}}
+{{--                <source src="uche.mov" data-wf-ignore="true">--}}
+
+{{--                Your browser does not support the video tag.--}}
+{{--            </video>--}}
             <div class="w-embed">
                 <style>
                     .w-webflow-badge {
@@ -76,7 +84,5 @@
             </div>
         </div>
     </div>
-
-
 
 @endsection
