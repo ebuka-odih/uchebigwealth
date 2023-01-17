@@ -75,24 +75,7 @@
             </div>
         </div>
     </div>
-
-    <div id="Popup" class="popup">
-        <div class="section-7">
-            <a href="#" id="popup_close_btn" class="link-block-5 w-inline-block"><img src="images/x.png" data-w-id="1f889421-387e-7084-1034-383422a944be" alt="X Button" class="image-7"></a>
-            <section id="newsletter" class="section-6 no-margin wf-section">
-                <div class="newsletter-container">
-                    <div class="center-content content-width-large">
-                        <h5 class="panel-subheading text-primary-1">Newsletter for g&#x27;s</h5>
-                        <div class="display-heading-5 space-bottom-large"><strong class="bold-text-2">Weekly knowledge
-                            </strong>exclusively for g&#x27;s.</div>
-                        <div style="width: 100%;">
-                            <script src="js/newsletter.js"></script>
-
-                        </div>
-                    </div>
-            </section>
-        </div>
-    </div>
+    
 
 
 @endsection
