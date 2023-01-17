@@ -38,7 +38,8 @@
             <div class="center-content content-width-large">
                 <div class="display-heading-5 space-bottom-large">
                     <strong class="bold-text-2">Get Started
-                    </strong></div>
+                    </strong>
+                </div>
                 <div style="width: 100%;">
                     <form method="post" action="" class="listmonk-form nl-form" style="text-align: center;">
                         <div>
@@ -66,6 +67,22 @@
         </div>
     </section>
     <hr>
+
+    <section id="newsletter" class="section-6 no-margin wf-section">
+        <div class="newsletter-container">
+            <div class="center-content content-width-large">
+                <div style="padding-top: 1px" class="display-heading-5 space-bottom-large">
+                    <strong class="bold-text-3">Pass The Barrier to Entry
+                    </strong>
+                </div>
+                <p>
+                    The Barrier to Entry is the fence to prevents low quality people from getting access
+                </p>
+
+            </div>
+        </div>
+    </section>
+
 
 
 
