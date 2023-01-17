@@ -32,48 +32,6 @@
         }
     </style>
 
-    <div class="section shorthero vid full wf-section">
-        <div data-poster-url="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-poster-00001.jpg" data-video-urls="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.mp4,https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-beta-bgvideo-upgrade="false" class="background-video w-background-video w-background-video-atom"><video id="61c0797d-fa50-4e15-0462-cc705253e578-video" autoplay="" loop="" style="background-image:url(_https_/uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success%20is%20learnt%20-%20splash%20sreen%20video%20LOW%20RES%20SIZE-poster-00001.html)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source src="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.mp4" data-wf-ignore="true">
-                <source src="https://uploads-ssl.webflow.com/6181b0b1a9ba753863f1b595/6217868fa1686570ac9e66e0_Success is learnt - splash sreen video LOW RES SIZE-transcode.webm" data-wf-ignore="true">
-            </video>
-            <div class="w-embed">
-                <style>
-                    .w-webflow-badge {
-                        display: none !important;
-                    }
-                </style>
-            </div>
-            <div class="div-block-19">
-                <div class="div-block">
-                    <h1 class="heading"><strong>Get Direct Tutoring</strong>,<strong> Learn How we do it</strong></h1>
-                    <p class="paragraph padding shad">
-                        Learn and Follow The Exact Same Techniques and Updates the Group uses to Make Min. $10k Monthly
-                        <br></p>
-                    <a href="https://thewarroom.ag/" class="button-large bg-primary-3 margin-top w-button">I will teach you</a>
-                </div>
-            </div><noscript>
-                <style>
-                    [data-wf-bgvideo-fallback-img] {
-                        display: none;
-                    }
-
-                    @media (prefers-reduced-motion: reduce) {
-                        [data-wf-bgvideo-fallback-img] {
-                            position: absolute;
-                            z-index: -100;
-                            display: inline-block;
-                            height: 100%;
-                            width: 100%;
-                            object-fit: cover;
-                        }
-                    }
-                </style><img data-wf-bgvideo-fallback-img="true"
-                             src="documents/Success-is-learnt---splash-sreen-video-LOW-RES-SIZE.html" alt="">
-            </noscript>
-            <div aria-live="polite"><button type="button" data-w-bg-video-control="true" aria-controls="61c0797d-fa50-4e15-0462-cc705253e578-video" class="w-backgroundvideo-backgroundvideoplaypausebutton w-background-video--control"><span><img src="https://uploads-ssl.webflow.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg" alt="Pause video"></span><span hidden=""><img src="https://uploads-ssl.webflow.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg" alt="Play video"></span></button></div>
-        </div>
-    </div>
 
     <section id="newsletter" class="section-6 no-margin wf-section">
         <div class="newsletter-container">
@@ -107,6 +65,7 @@
             </div>
         </div>
     </section>
+    <hr>
 
 
 
