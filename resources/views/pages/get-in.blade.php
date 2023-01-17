@@ -110,10 +110,4 @@
 
 
 
-
-    <h3>Using CSS to style an HTML Form</h3>
-
-
-
-
 @endsection

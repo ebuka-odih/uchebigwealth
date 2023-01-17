@@ -103,81 +103,7 @@
 
 @yield('content')
 
-<div class="footer wf-section">
-    <div class="container footer">
-        <div class="footer-3-left-column">
-            <div class="footer-contact-methods">
-                <div>
-                    <h5>Top Programs</h5>
-                    <div class="div-block-12">
-                        <a href="https://thewarroom.ag/" class="link" target="_blank">War Room</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="jointherealworld.com/index.html" target="_blank" class="link">The Real World</a>
-                    </div>
-                </div>
-                <div>
-                    <h5>Media</h5>
-                    <div class="div-block-12">
-                        <a href="tate-confidential.html" class="link">Tate Confidential</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="tatespeech.html" class="link">TateSpeech</a>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-contact-methods">
-                <div>
-                    <h5>Sitemap</h5>
-                    <div class="div-block-12">
-                        <a href="index.html" aria-current="page" class="link w--current">Home</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="bio.html" class="link">About</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="41-tenets.html" class="link">41 Tenets</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="the-tales-of-wudan.html" class="link">Tales Of Wudan</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="shop.html" class="link">Programs</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="bio.html#contact-form-anchor" class="link">Contact Me</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="official.html" class="link">Official Contacts</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="newsletter.html" class="link">Newsletter</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="faq.html" class="link">FAQ</a>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-contact-methods">
-                <div>
-                    <h5>Legal</h5>
-                    <div class="div-block-12">
-                        <a href="refund-policy.html" class="link">Refund Policy</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="privacy-policy.html" class="link">Privacy Policy</a>
-                    </div>
-                    <div class="div-block-12">
-                        <a href="terms-conditions.html" class="link">Terms &amp; Conditions</a>
-                    </div>
-                </div>
-                <div id="w-node-_81b155f2-2e42-cfc8-809e-010b8d3ce7ff-6f8602cd" class="div-block-66">
-                    <a href="http://topg.com/" target="_blank" class="link-block-7 w-inline-block"><img src="images/Top-G.svg" loading="lazy" alt="" class="footer__link__logo"></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6181b0b1a9ba753863f1b595" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script src="{{ asset('js/cobratate-v3.js') }}" type="text/javascript"></script>
 <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
@@ -219,7 +145,7 @@
     });
 </script>
 <script src="{{ asset('js/megamenu.js') }}"></script>
-<script src="js/newsletter.js"></script>
+{{--<script src="js/newsletter.js"></script>--}}
 </body>
 
 <!-- Mirrored from cobratate.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 16 Jan 2023 16:41:42 GMT -->
