@@ -26,7 +26,7 @@
                     <p class="paragraph padding shad">
                         Learn and Follow The Exact Same Techniques and Updates the Group uses to Make Min. $10k Monthly
                         <br></p>
-                    <a href="https://thewarroom.ag/" class="button-large bg-primary-3 margin-top w-button">I will teach you</a>
+                    <a  class="button-large bg-primary-3 margin-top w-button">I will teach you</a>
                 </div>
             </div>
             <noscript>
