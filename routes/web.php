@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'pages.index')->name('index');
+Route::view('/get-started', 'pages.get-in')->name('get.started');

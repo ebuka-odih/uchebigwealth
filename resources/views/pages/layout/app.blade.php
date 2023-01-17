@@ -219,6 +219,7 @@
     });
 </script>
 <script src="{{ asset('js/megamenu.js') }}"></script>
+<script src="js/newsletter.js"></script>
 </body>
 
 <!-- Mirrored from cobratate.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 16 Jan 2023 16:41:42 GMT -->
