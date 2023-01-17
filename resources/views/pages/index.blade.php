@@ -14,10 +14,10 @@
             </div>
             <div class="div-block-19">
                 <div class="div-block">
-                    <h1 class="heading"><strong>success </strong>is<strong> learnt</strong></h1>
-                    <p class="paragraph padding shad"><strong>I&#x27;m Andrew Tate - World Champion Kickboxer &amp;
-                            Multi-Millionaire. <br>‍</strong><br>I grew up broke and now I am a multi millionaire.<br><br>I teach the
-                        deserving the secrets to modern wealth creation.<br></p>
+                    <h1 class="heading"><strong>Get Direct Tutoring</strong>,<strong> Learn How we do it</strong></h1>
+                    <p class="paragraph padding shad">
+                        Learn and Follow The Exact Same Techniques and Updates the Group uses to Make Min. $10k Monthly
+                        <br></p>
                     <a href="https://thewarroom.ag/" class="button-large bg-primary-3 margin-top w-button">I will teach you</a>
                 </div>
             </div><noscript>
@@ -45,7 +45,7 @@
     <div class="section-2 rem wf-section">
         <div class="container grid-container">
             <div class="section-title">
-                <h1 class="display-heading-4"><strong>Teachers</strong> are <strong>essential</strong></h1>
+                <h1 class="display-heading-4"><strong>Join The Bigwealth Clan, The Fastest Growing Community of Millionaires with The Sharpest Updates</strong></h1>
             </div>
             <div data-duration-in="300" data-duration-out="100" data-current="Tab 2" data-easing="ease" class="tabs-vertical w-tabs">
                 <div class="tabs-vertical-menu w-tab-menu">
@@ -57,7 +57,7 @@
                                 <div class="panel-body center">
                                     <div class="space-bottom-large">
                                         <div>
-                                            <div class="card-heading display-inline text-gray-4">CONNECT WITH AMBITIOUS MEN<br></div>
+                                            <div class="card-heading display-inline text-gray-4">CONNECT WITH ZEALOUS TEACHERS AND SMART PEOPLE<br></div>
                                         </div>
                                         <p class="paragraph left center">Your <strong>net worth</strong> is your <strong>network</strong>.
                                             You need to surround yourself with successful men, men you can learn from.<br>‍<br>If you were in
@@ -65,7 +65,7 @@
                                             about how to make ice-cream.<br>‍<br><strong>IT IS THE SAME WITH MONEY.</strong></p>
                                         <div class="div-block-3 shown-pic-tab"><img sizes="(max-width: 479px) 99vw, 100vw" srcset="images/photo4956401880766982404-p-1080.jpeg 1080w, images/photo4956401880766982404.jpg 1280w" src="images/photo4956401880766982404.jpg" alt="War room event" class="rounded-image-2 grid-image"></div>
                                     </div>
-                                    <a href="https://thewarroom.ag/" class="button-large bg-primary-3 w-button">learn from the best</a>
+                                    <a href="https://thewarroom.ag/" class="button-large bg-primary-3 w-button">GET IN</a>
                                 </div>
                             </div>
                             <div class="div-block-3"><img sizes="(max-width: 479px) 100vw, (max-width: 991px) 657.34375px, 53vw" srcset="images/photo4956401880766982404-p-1080.jpeg 1080w, images/photo4956401880766982404.jpg 1280w" src="images/photo4956401880766982404.jpg" alt="War room event" class="rounded-image-2 grid-image hidden-pic-mobile"></div>
@@ -75,81 +75,7 @@
             </div>
         </div>
     </div>
-    <div id="fold" class="section-2 nospace margintop wf-section">
-        <div data-w-id="aee12f06-cce3-c88a-9e87-ab7f8d0c2c34" class="w-layout-grid grid-two-thirds padding leftimg">
-            <div class="panel">
-                <div class="panel-body">
-                    <div class="space-bottom">
-                        <div>
-                            <div class="card-heading text-gray-4 center">Cold hard <strong>truths</strong></div>
-                        </div>
-                        <p class="paragraph left center">Society is influencing you for society&#x27;s well being. They don&#x27;t
-                            want you to be free, they want slaves who work, consume and die. I&#x27;ll teach you the truth about
-                            life.<br></p>
-                    </div>
-                    <div data-delay="4000" data-animation="slide" class="slider hidden w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="4" data-duration="500" data-infinite="false">
-                        <div class="rounded-image w-slider-mask">
-                            <div class="w-slide"><img src="images/happiness.jpg" srcset="images/happiness-p-500.jpeg 500w, images/happiness-p-800.jpeg 800w, images/happiness.jpg 1280w" sizes="(max-width: 479px) 91vw, (max-width: 767px) 94vw, 100vw" alt="" class="rounded-image slider-image"></div>
-                        </div>
-                        <div class="slider-navigation-previous button-circle bg-white hidden w-slider-arrow-left"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf370b9d8db1_icon-chevron-left.svg" alt="" class="button-circle-icon"></div>
-                        <div class="slider-navigation-next button-circle bg-white hidden w-slider-arrow-right"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf16aa9d8dd1_icon-chevron-right.svg" alt="" class="button-circle-icon"></div>
-                        <div class="content-on-image-slider-navigation w-slider-nav"></div>
-                    </div>
-                    <a href="tatespeech.html" class="button-large bg-primary-3 margin-top w-button">watch now</a>
-                </div>
-            </div>
-            <div data-delay="4000" data-animation="slide" class="slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="4" data-duration="500" data-infinite="false" id="w-node-aee12f06-cce3-c88a-9e87-ab7f8d0c2c4b-c9f1b598">
-                <div class="rounded-image w-slider-mask">
-                    <div class="w-slide"><img src="images/happiness.jpg" srcset="images/happiness-p-500.jpeg 500w, images/happiness-p-800.jpeg 800w, images/happiness.jpg 1280w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 100vw" alt="" class="rounded-image slider-image"></div>
-                </div>
-                <div class="slider-navigation-previous button-circle bg-white hidden w-slider-arrow-left"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf370b9d8db1_icon-chevron-left.svg" alt="" class="button-circle-icon"></div>
-                <div class="slider-navigation-next button-circle bg-white hidden w-slider-arrow-right"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf16aa9d8dd1_icon-chevron-right.svg" alt="" class="button-circle-icon"></div>
-                <div class="content-on-image-slider-navigation w-slider-nav"></div>
-            </div>
-        </div>
-        <div data-w-id="aee12f06-cce3-c88a-9e87-ab7f8d0c2c11" class="w-layout-grid grid-two-thirds padding reverse lot">
-            <div class="panel">
-                <div class="panel-body">
-                    <div class="space-bottom">
-                        <div>
-                            <div class="card-heading text-gray-4 center"><strong>life</strong> of tates</div>
-                        </div>
-                        <p class="paragraph left center">Two brothers, single mother household, who grew up broke as a
-                            joke.<br><br>Now, self-made multi millionaires, what do they do everyday?<br></p>
-                        <div data-delay="4000" data-animation="slide" class="slider hidden w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="4" data-duration="500" data-infinite="false">
-                            <div class="rounded-image w-slider-mask">
-                                <div class="w-slide"><img src="images/conf.jpg" srcset="images/conf-p-800.jpeg 800w, images/conf.jpg 1280w" sizes="(max-width: 479px) 91vw, (max-width: 767px) 94vw, 100vw" alt="" class="rounded-image slider-image"></div>
-                            </div>
-                            <div class="slider-navigation-previous button-circle bg-white hidden w-slider-arrow-left"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf370b9d8db1_icon-chevron-left.svg" alt="" class="button-circle-icon"></div>
-                            <div class="slider-navigation-next button-circle bg-white hidden w-slider-arrow-right"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf16aa9d8dd1_icon-chevron-right.svg" alt="" class="button-circle-icon"></div>
-                            <div class="content-on-image-slider-navigation w-slider-nav"></div>
-                        </div>
-                    </div>
-                    <a href="tate-confidential.html" class="button-large bg-primary-3 margin-top w-button">watch now</a>
-                </div>
-            </div>
-            <div data-delay="4000" data-animation="slide" class="slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="4" data-duration="500" data-infinite="false">
-                <div class="rounded-image w-slider-mask">
-                    <div class="w-slide"><img src="images/conf.jpg" srcset="images/conf-p-800.jpeg 800w, images/conf.jpg 1280w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 100vw" alt="" class="rounded-image slider-image"></div>
-                </div>
-                <div class="slider-navigation-previous button-circle bg-white hidden w-slider-arrow-left"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf370b9d8db1_icon-chevron-left.svg" alt="" class="button-circle-icon"></div>
-                <div class="slider-navigation-next button-circle bg-white hidden w-slider-arrow-right"><img src="https://uploads-ssl.webflow.com/5ee73e3ba21f7b59cc1f69fc/5ee73e3bab90cf16aa9d8dd1_icon-chevron-right.svg" alt="" class="button-circle-icon"></div>
-                <div class="content-on-image-slider-navigation w-slider-nav"></div>
-            </div>
-        </div>
-    </div>
-    <div class="section _2 wf-section">
-        <div class="div-block">
-            <h1 class="heading"><strong>Reach</strong> the <strong>top</strong></h1>
-            <p class="paragraph padding">People love to say you can accomplish anything. I’m going to be completely honest
-                with you, that’s bullshit.<br>Very few people have the dedication and work ethic to operate in the top 1% of
-                men. <br>Those that do, often don’t know how to get there. Understand, if you’re dedicated and ready to work
-                hard, it’s not enough, you need to know WHAT to work on, WHAT to dedicate yourself to. I broke the Matrix and I
-                will teach you how. When rich people say how to get rich, 99% don’t listen. That’s why the 1% are the
-                1%.<br>‍<br>Learn the WHAT, then you just do the work.</p>
-            <a href="shop.html" class="button-large bg-primary-3 w-button">learn here</a>
-        </div>
-    </div>
+   
     <div id="Popup" class="popup">
         <div class="section-7">
             <a href="#" id="popup_close_btn" class="link-block-5 w-inline-block"><img src="images/x.png" data-w-id="1f889421-387e-7084-1034-383422a944be" alt="X Button" class="image-7"></a>
