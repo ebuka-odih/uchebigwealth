@@ -95,13 +95,13 @@
                 <div>
                     <h5>Social Links</h5>
                     <div class="div-block-12">
-                        <a href="https://www.instagram.com/uchebigwealth/" class="link" target="_blank">
+                        <a href="https://www.instagram.com/uchebigwealth/" class="" target="_blank">
                             <img style="margin-bottom: 5px" height="60" width="60" src="{{ asset('img/ig.png') }}" alt="">Instagram
                         </a>
                     </div>
                     <div class="div-block-12">
-                        <a href="mailto:uchebigwealth@gmail.com" target="_blank" class="link">
-                            <img style="margin-bottom: 5px" height="60" width="60" src="{{ asset('img/email.png') }}" alt="">Email
+                        <a style=" padding-right: 20px" href="mailto:uchebigwealth@gmail.com" target="_blank" class="">
+                            <img style="margin-bottom: 5px; margin-right: 20px;" height="80" width="80" src="{{ asset('img/email.png') }}" alt="">Email
                         </a>
                     </div>
                 </div>
