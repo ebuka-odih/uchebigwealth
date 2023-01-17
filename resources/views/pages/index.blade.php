@@ -75,7 +75,7 @@
             </div>
         </div>
     </div>
-   
+
     <div id="Popup" class="popup">
         <div class="section-7">
             <a href="#" id="popup_close_btn" class="link-block-5 w-inline-block"><img src="images/x.png" data-w-id="1f889421-387e-7084-1034-383422a944be" alt="X Button" class="image-7"></a>

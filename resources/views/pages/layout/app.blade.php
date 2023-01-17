@@ -74,8 +74,10 @@
 <div class="menu-container">
     <div class="menu">
         <ul>
-            <li class='menu-logo desktop'><a href="index.html"><img src="images/Tate-Logo-Web3.png" alt="Tate logo" /></a></li>
-            <li class='mobile'><a href="index.html">HOME</a></li>
+            <li class='menu-logo desktop'><a href="{{ route('index') }}">
+                    <img src="{{ asset('img/logo.png') }}" alt="Tate logo" />
+                </a></li>
+            <li class='mobile'><a href="{{ route('index') }}">HOME</a></li>
             <li><a href="http://jointherealworld.com/" target='_blank'>THE REAL WORLD</a></li>
             <li><a href="https://thewarroom.ag/" target="_blank">THE WAR ROOM</a></li>
             <li><a href="warplans.html">WAR PLANS</a></li>
