@@ -88,8 +88,11 @@
 {{--                        border: 3px solid green;--}}
 {{--                    }--}}
 {{--                </style>--}}
-                <a style="float:right; margin-top: 40px" href="{{ route('get.started') }}" class="button-large bg-primary-3 w-button absolute">Checkout</a>
+               <div style="margin-top: 40px">
+                   <p style="padding-bottom: 5px">$9.99</p>
+                   <a style="float:right;" target="_blank" href="https://paystack.com/pay/uchebigwealth" class="button-large bg-primary-3 w-button absolute">Checkout</a>
 
+               </div>
 
             </div>
         </div>
