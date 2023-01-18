@@ -62,25 +62,6 @@
                     <img src="{{ asset('img/logo.png') }}" alt="Tate logo" />
                 </a></li>
             <li class='mobile'><a href="{{ route('index') }}">HOME</a></li>
-            <li><a href="http://jointherealworld.com/" target='_blank'>THE REAL WORLD</a></li>
-            <li><a href="https://thewarroom.ag/" target="_blank">THE WAR ROOM</a></li>
-            <li><a href="warplans.html">WAR PLANS</a></li>
-            <li><a href='#'>WISDOM</a>
-                <ul>
-                    <li><a href="41-tenets.html">41 TENETS</a></li>
-                    <li><a href="the-tales-of-wudan.html">TALES OF WUDAN</a></li>
-                </ul>
-            </li>
-            <li><a href='#'>REACH ME</a>
-                <ul>
-                    <li><a href="https://rumble.com/c/TateSpeech" target='_blank'>WATCH UNCENSORED</a></li>
-                    <li><a href="https://gettr.com/user/cobratate" target='_blank'>FOLLOW ME</a></li>
-                    <li><a href="bio.html">ABOUT</a></li>
-                    <li><a href="contact.html">CONTACT ME</a></li>
-                </ul>
-            </li>
-            <li><a href="https://cobratatemembers.com/">MY ACCOUNT</a></li>
-            <li class='right-btn shop-btn'><a href="shop.html">SHOP</a></li>
         </ul>
     </div>
 </div>
