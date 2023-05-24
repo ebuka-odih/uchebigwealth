@@ -13,5 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'pages.index2')->name('index');
+Route::view('/', 'pages.index3')->name('index');
 Route::view('/get-started', 'pages.get-in')->name('get.started');
