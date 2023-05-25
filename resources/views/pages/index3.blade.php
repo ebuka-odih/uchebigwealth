@@ -1702,11 +1702,7 @@
         font-weight: bold;
     }
 </style>
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTT7R9Q" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
+
 <a class="skip-to-content-link button visually-hidden" href="#MainContent"> Skip to content </a>
 <div id="shopify-section-announcement-bar" class="shopify-section">
     <div class="announcement-bar color-accent-1 gradient" role="region" aria-label="Announcement">
@@ -1997,7 +1993,7 @@
                 </details>
             </header-drawer>
             <a href="/" class="header__heading-link link link--text focus-inset">
-                <img src="//cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115" alt="Monkeflow 🍌" srcset="//cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=50 50w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=100 100w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=150 150w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=200 200w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=250 250w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=300 300w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=400 400w, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&amp;width=500 500w" width="140" height="25.025000000000002" class="header__heading-logo">
+                <h2 style="font-weight: bolder; color: white">UBW</h2>
             </a>
             <nav class="header__inline-menu">
                 <ul class="list-menu list-menu--inline" role="list">
@@ -2084,16 +2080,7 @@
             </div>
         </header>
     </sticky-header>
-    <script type="application/ld+json">
-        {
-          "@context": "http://schema.org",
-          "@type": "Organization",
-          "name": "Monkeflow 🍌",
-          "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/9431\/0368\/files\/monkeflow-p-800.png?v=1665393115\u0026width=800",
-          "sameAs": ["https:\/\/twitter.com\/monkeflowdotcom", "https:\/\/www.facebook.com\/monkeflow", "", "https:\/\/www.instagram.com\/monkeflow\/", "https:\/\/www.tiktok.com\/@monkeflow", "", "", "", ""],
-          "url": "https:\/\/monkeflow.com"
-        }
-      </script>
+
 </div>
 <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
     <!--GEM_HEADER-->
@@ -2129,7 +2116,7 @@
                                                         <div data-label="Button" data-key="button" data-atomgroup="element" id="e-1672751033980" class="element-wrap" data-icon="gpicon-gpicon-button" data-ver="1.0" data-id="1672751033980" style="display: block;">
                                                             <div class="elm gf-elm-center gf-elm-left-lg gf-elm-left-sm gf-elm-left-xs gf-elm-left-md" data-stretch-lg="1" data-stretch-xs="1" data-stretch-md="1" data-stretch-sm="0">
                                                                 <a class="button btn gf_button gf_gs-button-element gf_gs-button---large" href="#" target="" data-scroll-speed="2000" data-exc="" data-scroll-speed-xs="2000" data-scroll-speed-md="2000" data-scroll-speed-sm="2000">
-                                                                    <span>170+ emails</span>
+                                                                    <span>$2b Market</span>
                                                                 </a>
                                                             </div>
                                                         </div>
@@ -2138,7 +2125,7 @@
                                                         <div data-label="Button" data-key="button" data-atomgroup="element" id="e-1666607551970" class="element-wrap" data-icon="gpicon-gpicon-button" data-ver="1.0" data-id="1666607551970" style="">
                                                             <div class="elm gf-elm-center gf-elm-left-sm gf-elm-left-xs gf-elm-left-lg gf-elm-left-md" data-stretch-lg="1" data-stretch-xs="1" data-stretch-md="1" data-stretch-sm="0">
                                                                 <a class="button btn gf_button gf_gs-button-element gf_gs-button---large" href="#" target="" data-scroll-speed="2000" data-exc="" data-scroll-speed-xs="2000" data-scroll-speed-md="2000" data-scroll-speed-sm="2000">
-                                                                    <span>Plug & Play Kit</span>
+                                                                    <span>Plug & Use Kit</span>
                                                                 </a>
                                                             </div>
                                                         </div>
@@ -2146,12 +2133,14 @@
                                                 </div>
                                                 <div data-label="Heading" data-key="heading" data-atomgroup="element" id="e-1666607578476" class="element-wrap" data-icon="gpicon-heading" data-ver="2" data-id="1666607578476">
                                                     <div class="elm text-edit gf-elm-center gf-elm-left-md gf-elm-left-sm gf-elm-left-lg gf-elm-center-xs" data-gemlang="en" data-exc="">
-                                                        <h1 class="gf_gs-text-heading-2">The #1 eCom Email Calendar Kit (2023) 🏆</h1>
+                                                        <h1 class="gf_gs-text-heading-2">The #1 Kit You need to Rake In $47,000 in Domain Trading (2023)</h1>
                                                     </div>
                                                 </div>
                                                 <div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1666607637089" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1666607637089">
                                                     <div class="elm text-edit gf-elm-left gf_gs-text-paragraph-1 gf-elm-left-md gf-elm-left-sm gf-elm-center-xs gf-elm-left-lg" data-gemlang="en" data-exc="">
-                                                        <p>Skip all the hard work – get the ready-made plug & play 2023 campaign calendar for eCommerce stores.</p>
+                                                        <p>
+                                                            Master the methods and updates that are making the team millions of Dollar$, skip the stress and follow proven methods.
+                                                        </p>
                                                     </div>
                                                 </div>
                                                 <div data-label="Icon List" data-key="icon-list" data-atomgroup="module" id="m-1678703531054" class="module-wrap" data-icon="gpicon-iconlist" data-ver="1.0" data-id="1678703531054" style="">
@@ -2172,7 +2161,7 @@
                                                                 <div class="gf-il-content item-content" data-index="1" data-key="content1" style="padding-left: 29px">
                                                                     <div data-label="Text Block" id="e-1678703531054-2" class="element-wrap" data-id="1678703531054-2" style="">
                                                                         <div class="elm text-edit gf_gs-text-paragraph-1 gf-elm-left gf-elm-left-md" data-exc="">
-                                                                            <p style="text-align: inherit!important;">170+ emails to copy & paste (with examples)</p>
+                                                                            <p style="text-align: inherit!important;">-Secrets of Domain Trading (.com , .eth and special domains)</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2192,7 +2181,7 @@
                                                                 <div class="gf-il-content item-content" data-index="2" data-key="content1" style="padding-left: 29px">
                                                                     <div data-label="Text Block" id="e-1678703531054-4" class="element-wrap" data-id="1678703531054-4">
                                                                         <div class="elm text-edit gf_gs-text-paragraph-1 gf-elm-left gf-elm-left-md" data-exc="">
-                                                                            <p style="text-align: inherit!important;">25+ additional resources for sending tips</p>
+                                                                            <p style="text-align: inherit!important;">-12+ additional resources for steady growth </p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2212,7 +2201,7 @@
                                                                 <div class="gf-il-content item-content" data-index="3" data-key="content1" style="padding-left: 29px">
                                                                     <div data-label="Text Block" id="e-1678703984690" class="element-wrap" data-id="1678703984690">
                                                                         <div class="elm text-edit gf_gs-text-paragraph-1 gf-elm-left gf-elm-left-md" data-exc="">
-                                                                            <p style="text-align: inherit!important;">Built specifically for eCommerce stores</p>
+                                                                            <p style="text-align: inherit!important;">-Regular Updates on upcoming and new Methods.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2223,7 +2212,7 @@
                                                 <div data-label="Button" data-key="button" data-atomgroup="element" id="e-1671436110347" class="element-wrap" data-icon="gpicon-gpicon-button" data-ver="1.0" data-id="1671436110347" style="">
                                                     <div class="elm gf-elm-center gf-elm-center-lg gf-elm-center-sm gf-elm-center-xs gf-elm-center-md" data-stretch-lg="1" data-stretch-xs="1" data-stretch-md="1">
                                                         <a class="button btn gf_button gf_gs-button-element gf_gs-button---large" href="#r-1667053727315" target="" data-scroll-speed="2000" data-exc="" data-scroll-speed-xs="2000" data-scroll-speed-md="2000">
-                                                            <span>Get eCom Email Calendar Kit 🔥</span>
+                                                            <span>Get Domain Mastery Kit🔥</span>
                                                         </a>
                                                     </div>
                                                 </div>
@@ -2253,42 +2242,32 @@
             <div class="gf_column gf_col-lg-12 gf_col-md-12 gf_col-sm-12 gf_col-xs-12" id="c-1672838401685" data-id="1672838401685">
                 <div data-label="Row" data-key="row" data-atomgroup="row" id="r-1672838413370" class="gf_row" data-icon="gpicon-row" data-id="1672838413370">
                     <div class="gf_column gf_col-lg-12 gf_col-md-12 gf_col-sm-12 gf_col-xs-12" id="c-1672838413403" data-id="1672838413403">
-                        <div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1672838490538" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1672838490538">
-                            <div class="elm text-edit gf-elm-left gf_gs-text-paragraph-1 gf-elm-left-md gf-elm-left-sm gf-elm-left-xs gf-elm-left-lg" data-gemlang="en" data-exc="">
-                                <p>
-                                    <span style="color: rgba(0, 0, 0, 0.75);">Did you know?</span>
-                                </p>
-                            </div>
-                        </div>
+
                         <div data-label="Heading" data-key="heading" data-atomgroup="element" id="e-1672838416928" class="element-wrap" data-icon="gpicon-heading" data-ver="2" data-id="1672838416928">
                             <div class="elm text-edit gf-elm-center gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
                                 <h1 class="gf_gs-text-heading-2">
-                                    <span style="color: rgb(61, 46, 46);">You can add at least more than&nbsp;</span>
-                                    <span style="color: rgb(6, 172, 28); text-decoration-line: underline;">+$100,000 in revenue</span>
-                                    <span style="color: rgb(61, 46, 46);">&nbsp;per year just from email newsletters.</span>
+                                    You can Easily add <span style="color: rgb(6, 172, 28); text-decoration-line: underline;">$53,000</span> in additional revenue per year by mastering Crypto and Forex Trading with Our Team strategies.
+
                                 </h1>
                             </div>
                         </div>
                         <div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1672839816604" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1672839816604">
                             <div class="elm text-edit gf-elm-left gf_gs-text-paragraph-1 gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
                                 <p>
-                                    <span style="font-weight: bold;">This is what is possible with proper newsletters 👇</span>
+                                    <span style="font-weight: bold;">This is how to Trade All Markets like a real pro 👇</span>
                                 </p>
                             </div>
                         </div>
                         <div data-label="Row" data-key="row" data-atomgroup="row" id="r-1672838837097" class="gf_row" data-icon="gpicon-row" data-id="1672838837097">
                             <div class="gf_column gf_col-lg-12 gf_col-md-12 gf_col-sm-12 gf_col-xs-12" id="c-1672838837041" data-id="1672838837041">
-                                <div data-label="Image" data-key="image" data-atomgroup="element" id="e-1672839553038" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1672839553038" data-resolution="3000x3000">
-                                    <div class="elm gf-elm-center gf_elm-left-xs gf-elm-left-md gf-elm-left-sm gf-elm-left-xs gf-elm-left-lg" data-exc="">
-                                        <img src="https://ucarecdn.com/ed26463c-d91e-40b0-8e6c-4587f5e639ea/-/format/auto/-/preview/3000x3000/-/quality/lighter/thanksgiving1new.png" alt="" class="gf_image" data-gemlang="en" width="1137" height="624" data-width="100%" data-height="auto" title="" natural-width="1137" natural-height="624">
+                                <div data-label="Button" data-key="button" data-atomgroup="element" id="e-1671436110347" class="element-wrap" data-icon="gpicon-gpicon-button" data-ver="1.0" data-id="1671436110347" style="">
+                                    <div class="elm gf-elm-center gf-elm-center-lg gf-elm-center-sm gf-elm-center-xs gf-elm-center-md" data-stretch-lg="1" data-stretch-xs="1" data-stretch-md="1">
+                                        <a class="button btn gf_button gf_gs-button-element gf_gs-button---large" href="#r-1667053727315" target="" data-scroll-speed="2000" data-exc="" data-scroll-speed-xs="2000" data-scroll-speed-md="2000">
+                                            <span>Get The Complete Trading Systems 🔥⚡</span>
+                                        </a>
                                     </div>
                                 </div>
-                                <div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1672838823958" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1672838823958">
-                                    <div class="elm text-edit gf-elm-left gf_gs-text-paragraph-1 gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
-                                        <p>Thanksgiving's Day Sale – <span style="font-weight: bold; color: rgb(12, 12, 12);">$101,694.31 revenue generated, $0 spent</span>
-                                        </p>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
 
@@ -2346,6 +2325,9 @@
                 padding-top: 60px;
                 padding-bottom: 60px;
             }
+        }
+        .kl-teaser-RfXTkV {
+            visibility: hidden;
         }
     </style>
     <footer class="footer color-inverse gradient section-footer-padding"><div class="footer__content-top page-width"><div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet "><div class="footer-block grid__item"><h2 class="footer-block__heading">About Monkeflow</h2><div class="footer-block__details-content rte"><p>Monkeflow is a results-first email & SMS marketing agency for DTC eCommerce brands.</p></div></div><div class="footer-block grid__item footer-block--menu"><h2 class="footer-block__heading">Menu</h2><ul class="footer-block__details-content list-unstyled"><li><a href="/" class="link link--text list-menu__item list-menu__item--link"> Done for You </a></li><li><a href="/products/emailbible" class="link link--text list-menu__item list-menu__item--link"> Checklist </a></li><li><a href="/products/calendar" class="link link--text list-menu__item list-menu__item--link list-menu__item--active"> Calendar </a></li><li><a href="/policies/privacy-policy" class="link link--text list-menu__item list-menu__item--link"> Privacy Policy </a></li><li><a href="/policies/terms-of-service" class="link link--text list-menu__item list-menu__item--link"> Terms of Service </a></li><li><a href="https://monkeflow.typeform.com/to/BS523Eki" class="link link--text list-menu__item list-menu__item--link"> Need Help? </a></li></ul></div><div class="footer-block grid__item"><div class="footer-block__details-content footer-block-image right"><img srcset="//cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&width=150, //cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&width=300 2x" src="//cdn.shopify.com/s/files/1/0657/9431/0368/files/monkeflow-p-800.png?v=1665393115&width=400" alt="" loading="lazy" width="800" height="143" style="max-width: min(100%, 150px);"></div></div></div><div class="footer-block--newsletter"><ul class="footer__list-social list-unstyled list-social" role="list"><li class="list-social__item"><a href="https://twitter.com/monkeflowdotcom" class="link list-social__link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" viewBox="0 0 18 15"><path fill="currentColor" d="M17.64 2.6a7.33 7.33 0 01-1.75 1.82c0 .05 0 .13.02.23l.02.23a9.97 9.97 0 01-1.69 5.54c-.57.85-1.24 1.62-2.02 2.28a9.09 9.09 0 01-2.82 1.6 10.23 10.23 0 01-8.9-.98c.34.02.61.04.83.04 1.64 0 3.1-.5 4.38-1.5a3.6 3.6 0 01-3.3-2.45A2.91 2.91 0 004 9.35a3.47 3.47 0 01-2.02-1.21 3.37 3.37 0 01-.8-2.22v-.03c.46.24.98.37 1.58.4a3.45 3.45 0 01-1.54-2.9c0-.61.14-1.2.45-1.79a9.68 9.68 0 003.2 2.6 10 10 0 004.08 1.07 3 3 0 01-.13-.8c0-.97.34-1.8 1.03-2.48A3.45 3.45 0 0112.4.96a3.49 3.49 0 012.54 1.1c.8-.15 1.54-.44 2.23-.85a3.4 3.4 0 01-1.54 1.94c.74-.1 1.4-.28 2.01-.54z"></svg><span class="visually-hidden">Twitter</span></a></li><li class="list-social__item"><a href="https://www.facebook.com/monkeflow" class="link list-social__link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 18 18"><path fill="currentColor" d="M16.42.61c.27 0 .5.1.69.28.19.2.28.42.28.7v15.44c0 .27-.1.5-.28.69a.94.94 0 01-.7.28h-4.39v-6.7h2.25l.31-2.65h-2.56v-1.7c0-.4.1-.72.28-.93.18-.2.5-.32 1-.32h1.37V3.35c-.6-.06-1.27-.1-2.01-.1-1.01 0-1.83.3-2.45.9-.62.6-.93 1.44-.93 2.53v1.97H7.04v2.65h2.24V18H.98c-.28 0-.5-.1-.7-.28a.94.94 0 01-.28-.7V1.59c0-.27.1-.5.28-.69a.94.94 0 01.7-.28h15.44z"></svg><span class="visually-hidden">Facebook</span></a></li><li class="list-social__item"><a href="https://www.instagram.com/monkeflow/" class="link list-social__link"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 18 18">
@@ -2428,7 +2410,8 @@
     GEMVENDOR.init(pageLibs);
 </script>
 <script data-instant-track type="text/javascript" src="https://d1um8515vdn9kb.cloudfront.net/files/gempagev2.js?v=1.0" class="gf-script" defer></script>
-<!--End_Gem_Page_Footer_Script--><style>
+<!--End_Gem_Page_Footer_Script-->
+<style>
     .mt-dropdown {
         position: relative;
         margin: 0 auto;
@@ -2731,20 +2714,10 @@
     .bold_hidden.bold_hidden.bold_hidden {
         display: none !important
     }
-</style><div id="shopify-block-18362670158283609394" class="shopify-block shopify-app-block">
-    <!-- BEGIN app snippet: omega_twitter_multi_pixel --><div class="ot-twitter-multi-pixel"></div>
-    <meta property="omega:tags" content="">
-    <meta property="omega:product" content="7970164474080">
-    <meta property="omega:product_type" content="">
-    <meta property="omega:collections" content=""><script>
-        var arrayTwitterPixelTrack = [];
-        var listTwitterPixelByType = [];
-    </script><script>
-        if (!arrayTwitterPixelTrack.includes('oce6e')) {
-            arrayTwitterPixelTrack.push('oce6e');
-        }
-    </script>
-    <!-- END app snippet --><script type="text/javascript" src="https://cdn.shopify.com/extensions/81a6585f-4365-497c-b8a6-17857ab13129/0.7.0/assets/twitter-pixel.js" defer></script>
+</style>
+<div id="shopify-block-18362670158283609394" class="shopify-block shopify-app-block">
+
+{{--    <script type="text/javascript" src="https://cdn.shopify.com/extensions/81a6585f-4365-497c-b8a6-17857ab13129/0.7.0/assets/twitter-pixel.js" defer></script>--}}
 </div>
 </body>
 </html>
