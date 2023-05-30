@@ -2104,7 +2104,7 @@
                                     <div class="gf_column gf_col-lg-6 gf_col-sm-6 gf_col-xs-12 gf_col-md-5" id="c-1666607324284" data-id="1666607324284" style="display: flex; flex-direction: column; justify-content: center; min-height: auto;">
                                         <div data-label="Image" data-key="image" data-atomgroup="element" id="e-1672751180255" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1672751180255" data-resolution="3000x3000">
                                             <div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-md gf-elm-center-sm gf-elm-center-xs gf-elm-center-lg" data-exc="">
-                                                <img src="https://ucarecdn.com/11f6d567-26f5-482f-ae4b-47fea9233fc7/-/format/auto/-/preview/3000x3000/-/quality/lighter/calendarkit.jpg" alt="" class="gf_image" data-gemlang="en" data-width="100%" data-height="auto" title="" width="2035" height="2035" natural-width="2035" natural-height="2035">
+                                                <img src="{{ asset('img/package.jpeg') }}" alt="" class="gf_image" data-gemlang="en" data-width="100%" data-height="auto" title="" width="2035" height="2035" natural-width="2035" natural-height="2035">
                                             </div>
                                         </div>
                                     </div>
@@ -2211,7 +2211,7 @@
                                                 </div>
                                                 <div data-label="Button" data-key="button" data-atomgroup="element" id="e-1671436110347" class="element-wrap" data-icon="gpicon-gpicon-button" data-ver="1.0" data-id="1671436110347" style="">
                                                     <div class="elm gf-elm-center gf-elm-center-lg gf-elm-center-sm gf-elm-center-xs gf-elm-center-md" data-stretch-lg="1" data-stretch-xs="1" data-stretch-md="1">
-                                                        <a class="button btn gf_button gf_gs-button-element gf_gs-button---large" href="#r-1667053727315" target="" data-scroll-speed="2000" data-exc="" data-scroll-speed-xs="2000" data-scroll-speed-md="2000">
+                                                        <a class="button btn gf_button gf_gs-button-element gf_gs-button---large" href="{{ route('payment_method') }}" target="" data-scroll-speed="2000" data-exc="" data-scroll-speed-xs="2000" data-scroll-speed-md="2000">
                                                             <span>Get Domain Mastery Kit🔥</span>
                                                         </a>
                                                     </div>
